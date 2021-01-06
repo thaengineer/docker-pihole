@@ -1,2 +1,1 @@
-# docker-pihole
-Docker Pi-hole
+# Docker Pi-hole
